@@ -13,7 +13,7 @@ namespace firstProj
             IWebDriver driverChrome = new ChromeDriver();
             driverChrome.Navigate().GoToUrl("https://www.facebook.com/ashish.khatiwada.710");
             driverChrome.FindElement(By.Id("email")).SendKeys("ashish.khatiwada.710");
-            driverChrome.FindElement(By.XPath("//input[@id='pass']")).SendKeys("H2oc#.nett");
+            driverChrome.FindElement(By.XPath("//input[@id='pass']")).SendKeys("");
             driverChrome.FindElement(By.XPath("//input[@id='pass']")).SendKeys(Keys.Return);
 
             driverChrome.Navigate().GoToUrl("https://www.facebook.com/ashish.khatiwada.710");
@@ -27,7 +27,7 @@ namespace firstProj
             // IWebDriver driverFirefox = new FirefoxDriver();
             // driverFirefox.Navigate().GoToUrl("https://www.facebook.com");
             // driverFirefox.FindElement(By.Id("email")).SendKeys("ashish.khatiwada.710");
-            // driverFirefox.FindElement(By.Id("pass")).SendKeys("H2oc#.nett");
+            // driverFirefox.FindElement(By.Id("pass")).SendKeys("");
             // driverFirefox.FindElement(By.Id("pass")).SendKeys(Keys.Return);
             // driverFirefox.Navigate().GoToUrl("https://www.facebook.com/ashish.khatiwada.710");
             // driverFirefox.FindElement(By.ClassName("_1frb")).SendKeys("Asmita Khatiwada");
