@@ -1,0 +1,15 @@
+F:\Selenium\firstProj\bin\Debug\netcoreapp3.0\firstProj.exe
+F:\Selenium\firstProj\bin\Debug\netcoreapp3.0\firstProj.deps.json
+F:\Selenium\firstProj\bin\Debug\netcoreapp3.0\firstProj.runtimeconfig.json
+F:\Selenium\firstProj\bin\Debug\netcoreapp3.0\firstProj.runtimeconfig.dev.json
+F:\Selenium\firstProj\bin\Debug\netcoreapp3.0\firstProj.dll
+F:\Selenium\firstProj\bin\Debug\netcoreapp3.0\firstProj.pdb
+F:\Selenium\firstProj\bin\Debug\netcoreapp3.0\Newtonsoft.Json.dll
+F:\Selenium\firstProj\bin\Debug\netcoreapp3.0\WebDriver.dll
+F:\Selenium\firstProj\obj\Debug\netcoreapp3.0\firstProj.csprojAssemblyReference.cache
+F:\Selenium\firstProj\obj\Debug\netcoreapp3.0\firstProj.AssemblyInfoInputs.cache
+F:\Selenium\firstProj\obj\Debug\netcoreapp3.0\firstProj.AssemblyInfo.cs
+F:\Selenium\firstProj\obj\Debug\netcoreapp3.0\firstProj.csproj.CopyComplete
+F:\Selenium\firstProj\obj\Debug\netcoreapp3.0\firstProj.dll
+F:\Selenium\firstProj\obj\Debug\netcoreapp3.0\firstProj.pdb
+f:\Selenium\firstProj\bin\Debug\netcoreapp3.0\WebDriver.Support.dll
